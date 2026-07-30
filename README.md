@@ -7,9 +7,7 @@ at the Iran University of Science and Technology (IUST). My work combines
 control-system modeling, optimization, embedded systems, machine learning, and
 computer vision.
 
-I am currently conducting research on **Data-Enabled Predictive Control
-(DeePC)** as a remote research intern at the AI2S Laboratory, Istanbul Technical
-University. I am also interested in model predictive control, learning-based
+I am  interested in model predictive control, learning-based
 control, cyber-physical systems, intelligent robotics, and AI applications in
 electrical engineering.
 
