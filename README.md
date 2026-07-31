@@ -16,12 +16,6 @@ signals and systems, electronics, programming, and mathematics courses. I enjoy
 turning theoretical control concepts into reproducible simulations and working
 embedded prototypes.
 
-## Research Interests
-
-`Model Predictive Control` · `Data-Driven Control` · `Learning-Based Control` ·
-`Intelligent Control` · `Embedded Systems` · `Computer Vision` ·
-`Smart Grid Monitoring`
-
 ## Tools & Technologies
 
 ### Control, Modeling & Engineering
@@ -67,11 +61,6 @@ embedded prototypes.
   custom-dataset training, evaluation, and image/video inference.
 - [**NTC Wheatstone-Bridge Sensor Fusion**](https://github.com/amin-farahani-fard/ntc-wb-fusion) -
   embedded sensing, MPU6050 fusion, and a real-time monitoring dashboard.
-
-## Publication
-
-- **Kaleidoscope: In-language Exams for Massively Multilingual Vision
-  Evaluation** - ICLR 2026, co-author.
 
 ## Contact Me
 
