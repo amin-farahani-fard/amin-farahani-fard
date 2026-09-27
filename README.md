@@ -7,7 +7,7 @@ at the Iran University of Science and Technology (IUST). My work combines
 control-system modeling, optimization, embedded systems, machine learning, and
 computer vision.
 
-I am  interested in model predictive control, learning-based
+I am  interested in model predictive control, power systems, learning-based
 control, cyber-physical systems, intelligent robotics, and AI applications in
 electrical engineering.
 
